@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 12.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 9.49,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 10.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 11.49,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 8.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.2
+    },
+    {
+      "id": 6,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 14.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 5.0
+    },
+    {
+      "id": 7,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 7.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 3.8
+    },
+    {
+      "id": 8,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 10.49,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 13.29,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 11.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 9.79,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.3
+    },
+    {
+      "id": 12,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 8.49,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 3.9
+    },
+    {
+      "id": 13,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 15.49,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 12.29,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 13.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 9.59,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.0
+    },
+    {
+      "id": 17,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 7.89,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 3.6
+    },
+    {
+      "id": 18,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 12.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.8
+    },
+    {
+      "id": 19,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 10.79,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.5
+    },
+    {
+      "id": 20,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 11.59,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.2
+    },
+    {
+      "id": 21,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 13.59,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 5.0
+    },
+    {
+      "id": 22,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 8.69,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.4
+    },
+    {
+      "id": 23,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 9.99,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.1
+    },
+    {
+      "id": 24,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 12.79,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.3
+    },
+    {
+      "id": 25,
+      "title": "Soup",
+      "description": "Product Description",
+      "price": 14.29,
+      "currency": "USD",
+      "image": "https://placehold.co/600x400/000000/FFF",
+      "rating": 4.9
+    }
+  ]
+  
