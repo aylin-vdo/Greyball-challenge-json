@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "title": "Search bar test",
+      "title": "Soap",
       "description": "Product Description",
       "price": 9.49,
       "currency": "USD",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "Cream",
-      "description": "Product Description that is longer than 100 charcaters, Product Description that is longer than 100 charcaters, Product Description that is longer than 100 charcaters",
+      "description": "Product Description",
       "price": 10.99,
       "currency": "USD",
       "image": "https://placehold.co/600x400/000000/FFF",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "title": "Soup",
+      "title": "Lettuce",
       "description": "Product Description",
       "price": 8.99,
       "currency": "USD",
@@ -92,7 +92,7 @@
     },
     {
       "id": 11,
-      "title": "Soup",
+      "title": "Sour Dough",
       "description": "Product Description",
       "price": 9.79,
       "currency": "USD",
@@ -110,7 +110,7 @@
     },
     {
       "id": 13,
-      "title": "Soup",
+      "title": "Premium Soup",
       "description": "Product Description",
       "price": 15.49,
       "currency": "USD",
@@ -146,7 +146,7 @@
     },
     {
       "id": 17,
-      "title": "Soup",
+      "title": "Cheap Soup",
       "description": "Product Description",
       "price": 7.89,
       "currency": "USD",
